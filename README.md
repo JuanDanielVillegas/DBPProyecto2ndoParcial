@@ -27,7 +27,7 @@ sudo docker pull 329545/automax:1.0.0
 
 
 ```
-sudo docker run -ti -p 8888:8888 -d 329545/automax:1.0.0
+sudo docker run -p 8888:8888 -d 329545/automax:1.0.0
 ```
 
 **En web:**

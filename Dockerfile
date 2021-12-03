@@ -13,4 +13,4 @@ COPY . .
 
 EXPOSE 8888
 
-CMD ["/usr/bin/node", "/pagina/app.js"]
+CMD ["/usr/bin/node", "/pagina/server.js"]
