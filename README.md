@@ -18,7 +18,7 @@ Clonar o descargar el repositorio desde: https://github.com/JuanDanielVillegas/D
 ```
 **Bajar Imagen desde Docker**
 ```
-
+sudo docker pull 329545/automax:1.0.0
 ```
 ## Probar el programa
 
@@ -27,13 +27,9 @@ Clonar o descargar el repositorio desde: https://github.com/JuanDanielVillegas/D
 
 
 ```
-
+sudo docker run -ti -p 8888:8888 -d 329545/automax:1.0.0
 ```
 
-
-```
-
-```
 **En web:**
 
 Correr el archivo `./node server.js` desde la terminal. 
