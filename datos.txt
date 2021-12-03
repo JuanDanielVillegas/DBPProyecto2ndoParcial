@@ -1,0 +1,2 @@
+nombres=Daniel&apellidos=VIllegas&tel=614222222&email=prueba%40gmail.coom&msj=hola
+nombres=Daniel&apellidos=VIllegas&tel=614222222&email=prueba%40gmail.coom&msj=hola
